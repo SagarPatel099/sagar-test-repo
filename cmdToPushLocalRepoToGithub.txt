@@ -1,0 +1,5 @@
+git remote add origin https://github.com/SagarPatel099/sagar-test-repo.git
+git push -u origin main
+
+
+note : in local branch should be main
